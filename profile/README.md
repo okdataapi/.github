@@ -9,6 +9,7 @@
 | [okdata](https://github.com/okdataapi/okdata) | Python / TypeScript SDK、命令行、远程 MCP、完整接口文档 |
 | [skills](https://github.com/okdataapi/skills) | AI Agent 技能：口碑分析、竞品监测、达人筛选、热点、字幕 |
 | [douyin-api](https://github.com/okdataapi/douyin-api) · [xiaohongshu-api](https://github.com/okdataapi/xiaohongshu-api) · [wechat-api](https://github.com/okdataapi/wechat-api) | 抖音、小红书、微信（公众号 / 视频号 / 搜一搜）接口清单和示例 |
+| [kuaishou-api](https://github.com/okdataapi/kuaishou-api) · [bilibili-api](https://github.com/okdataapi/bilibili-api) · [weibo-api](https://github.com/okdataapi/weibo-api) · [tiktok-api](https://github.com/okdataapi/tiktok-api) | 快手、B站、微博、TikTok 接口清单和示例 |
 | [xiaohongshu-search-mcp](https://github.com/okdataapi/xiaohongshu-search-mcp) | 免登录的小红书搜索 MCP |
 | [wechat-article-export](https://github.com/okdataapi/wechat-article-export) | 公众号历史文章导出 Markdown / CSV |
 | [douyin-hot-search-archive](https://github.com/okdataapi/douyin-hot-search-archive) | 抖音 / 微博 / B站热搜每日存档 |
