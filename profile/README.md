@@ -2,7 +2,7 @@
 
 **小红书数据接口 · 抖音数据 API · 公众号文章接口 · 快手 / B站 / 微博 / 知乎 / TikTok / X / YouTube 数据 · 社媒数据 MCP**
 
-一个 Key 调用 17 个平台的公开数据：搜内容、读评论、查博主、看热榜、拿字幕和广告。按次计费，失败不扣费，不用平台账号和 Cookie。[官网](https://okdata.online/zh/?src=gh-org) · [免费注册](https://okdata.online/zh/signup/?src=gh-org) · [MCP 接入](https://okdata.online/zh/mcp/?src=gh-org)
+一个 Key 调用 17 个平台的公开数据：搜内容、读评论、查博主、看热榜、拿字幕和广告。按次计费，不用平台账号和 Cookie。[官网](https://okdata.online/zh/?src=gh-org) · [免费注册](https://okdata.online/zh/signup/?src=gh-org) · [MCP 接入](https://okdata.online/zh/mcp/?src=gh-org)
 
 | 仓库 | 是什么 |
 |---|---|
