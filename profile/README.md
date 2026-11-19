@@ -1,18 +1,21 @@
-## okdata：给 AI 和代码用的社媒数据 API
+## okdata: social data API and MCP server for AI agents
 
-**小红书数据接口 · 抖音数据 API · 公众号文章接口 · 快手 / B站 / 微博 / 知乎 / TikTok / X / YouTube 数据 · 社媒数据 MCP**
+**TikTok · YouTube · Instagram · X · Reddit · Amazon · RedNote (Xiaohongshu) · Douyin · WeChat**
 
-一个 Key 调用 17 个平台的公开数据：搜内容、读评论、查博主、看热榜、拿字幕和广告。按次计费，不用平台账号和 Cookie。[官网](https://okdata.online/zh/?src=gh-org) · [免费注册](https://okdata.online/zh/signup/?src=gh-org) · [MCP 接入](https://okdata.online/zh/mcp/?src=gh-org)
+One key reads public data from 29 platforms through 250+ endpoints: search posts, read comments, look up creators and accounts, follow trending lists, pull transcripts and ads. Pay per call, no subscription, no platform accounts or cookies. A new key comes with free trial credit.
 
-| 仓库 | 是什么 |
+[Website](https://okdata.online/?src=gh-org) · [Get a key](https://okdata.online/signup/?src=gh-org) · [Remote MCP for Claude, Cursor and ChatGPT](https://okdata.online/mcp/?src=gh-org) · [Prices](https://okdata.online/pricing/?src=gh-org) · Official MCP Registry: `online.okdata/mcp`
+
+| Repository | What it is |
 |---|---|
-| [okdata](https://github.com/okdataapi/okdata) | Python / TypeScript SDK、命令行、远程 MCP、完整接口文档 |
-| [skills](https://github.com/okdataapi/skills) | AI Agent 技能：口碑分析、竞品监测、达人筛选、热点、字幕 |
-| [douyin-api](https://github.com/okdataapi/douyin-api) · [xiaohongshu-api](https://github.com/okdataapi/xiaohongshu-api) · [wechat-api](https://github.com/okdataapi/wechat-api) | 抖音、小红书、微信（公众号 / 视频号 / 搜一搜）接口清单和示例 |
-| [kuaishou-api](https://github.com/okdataapi/kuaishou-api) · [bilibili-api](https://github.com/okdataapi/bilibili-api) · [weibo-api](https://github.com/okdataapi/weibo-api) · [tiktok-api](https://github.com/okdataapi/tiktok-api) | 快手、B站、微博、TikTok 接口清单和示例 |
-| [xiaohongshu-search-mcp](https://github.com/okdataapi/xiaohongshu-search-mcp) | 免登录的小红书搜索 MCP |
-| [wechat-article-export](https://github.com/okdataapi/wechat-article-export) | 公众号历史文章导出 Markdown / CSV |
-| [douyin-hot-search-archive](https://github.com/okdataapi/douyin-hot-search-archive) | 抖音 / 微博 / B站热搜每日存档 |
-| [tiktok-comments-export](https://github.com/okdataapi/tiktok-comments-export) · [youtube-transcript-cli](https://github.com/okdataapi/youtube-transcript-cli) | TikTok 评论导出、YouTube 字幕下载 |
+| [okdata](https://github.com/okdataapi/okdata) | Python and TypeScript SDKs, command line, remote and local MCP server, one doc page per endpoint |
+| [skills](https://github.com/okdataapi/skills) | Agent Skills for Claude Code, Codex and Cursor: comment analysis, competitor monitoring, creator search, trends, transcripts |
+| [tiktok-api](https://github.com/okdataapi/tiktok-api) · [youtube-api](https://github.com/okdataapi/youtube-api) · [instagram-api](https://github.com/okdataapi/instagram-api) · [x-twitter-api](https://github.com/okdataapi/x-twitter-api) · [reddit-api](https://github.com/okdataapi/reddit-api) | Endpoint lists and runnable examples for each platform |
+| [xiaohongshu-api](https://github.com/okdataapi/xiaohongshu-api) · [douyin-api](https://github.com/okdataapi/douyin-api) · [wechat-api](https://github.com/okdataapi/wechat-api) · [wechat-channels-api](https://github.com/okdataapi/wechat-channels-api) · [kuaishou-api](https://github.com/okdataapi/kuaishou-api) · [bilibili-api](https://github.com/okdataapi/bilibili-api) · [weibo-api](https://github.com/okdataapi/weibo-api) | The same for China's platforms: RedNote, Douyin, WeChat Official Accounts and Channels, Kuaishou, Bilibili, Weibo |
+| [dify-plugin-okdata](https://github.com/okdataapi/dify-plugin-okdata) · [n8n-nodes-okdata](https://github.com/okdataapi/n8n-nodes-okdata) | Dify plugin and n8n community node |
+| [tiktok-comments-export](https://github.com/okdataapi/tiktok-comments-export) · [youtube-transcript-cli](https://github.com/okdataapi/youtube-transcript-cli) · [xiaohongshu-search-mcp](https://github.com/okdataapi/xiaohongshu-search-mcp) · [wechat-article-export](https://github.com/okdataapi/wechat-article-export) | Small tools: TikTok comments to CSV, YouTube transcripts, a RedNote search MCP, WeChat article export |
+| [china-trends](https://github.com/okdataapi/china-trends) · [douyin-hot-search-archive](https://github.com/okdataapi/douyin-hot-search-archive) | Open data: what Douyin, Weibo and RedNote are searching, archived daily as CSV with a weekly English digest |
 
-**English:** okdata is a pay-per-call social data API and remote MCP server for AI agents: Douyin, Xiaohongshu (RedNote), WeChat, Kuaishou, Bilibili, Weibo, Zhihu, TikTok, X, YouTube and more. [okdata.online](https://okdata.online/?src=gh-org) · Official MCP Registry: `online.okdata/mcp`.
+---
+
+**中文：** okdata 是给 AI 智能体和代码用的社媒数据接口和 MCP：小红书、抖音、微信（公众号、视频号、搜一搜）、快手、B站、微博、知乎，以及 TikTok、YouTube、Instagram、X、Reddit、亚马逊。一个 Key 调用 29 个平台的公开数据，按次计费，不用订阅，不用平台账号和 Cookie。[中文官网](https://okdata.online/zh/?src=gh-org) · [注册拿 Key](https://okdata.online/zh/signup/?src=gh-org) · [MCP 接入](https://okdata.online/zh/mcp/?src=gh-org)
