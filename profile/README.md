@@ -4,7 +4,7 @@
 
 One key reads public data from 29 platforms through 250+ endpoints: search posts, read comments, look up creators and accounts, follow trending lists, pull transcripts and ads. Pay per call, no subscription, no platform accounts or cookies. A new key comes with free trial credit.
 
-[Website](https://okdata.online/?src=gh-org) · [Get a key](https://okdata.online/signup/?src=gh-org) · [Remote MCP for Claude, Cursor and ChatGPT](https://okdata.online/mcp/?src=gh-org) · [Prices](https://okdata.online/pricing/?src=gh-org) · Official MCP Registry: `online.okdata/mcp`
+[Website](https://okdata.online/?src=gh-org) · [Get a key](https://okdata.online/signup/?src=gh-org) · [Remote MCP for Claude, Cursor and other agents](https://okdata.online/mcp/?src=gh-org) · [Prices](https://okdata.online/pricing/?src=gh-org) · Official MCP Registry: `online.okdata/mcp`
 
 | Repository | What it is |
 |---|---|
