@@ -1,8 +1,8 @@
-## okdata: social data API and MCP server for AI agents
+## okdata: Chinese social media data in English, as an API and MCP server for AI agents
 
-**TikTok · YouTube · Instagram · X · Reddit · Amazon · RedNote (Xiaohongshu) · Douyin · WeChat**
+**RedNote (Xiaohongshu) · Douyin · WeChat · Weibo · Bilibili · Kuaishou** · and TikTok, YouTube, Instagram, X, Reddit, Amazon
 
-One key reads public data from 30 platforms through 260+ endpoints: search posts, read comments, look up creators and accounts, follow trending lists, pull transcripts and ads. Pay per call, no subscription, no platform accounts or cookies. A new key comes with free trial credit.
+Read what Chinese consumers post on RedNote, Douyin and WeChat from anywhere, in JSON with English field names: search posts, read comments, look up creators and their official rates, follow the hot lists. No Chinese phone number, no platform account, no cookies. Built for brands and agencies researching the China market, research teams, and developers giving AI agents China data. One key covers 30 platforms and 260+ endpoints, including TikTok, YouTube, Instagram, X and Reddit. Pay per call, no subscription. A new key comes with free trial credit.
 
 [Website](https://okdata.online/?src=gh-org) · [Get a key](https://okdata.online/signup/?src=gh-org) · [Remote MCP for Claude, Cursor and other agents](https://okdata.online/mcp/?src=gh-org) · [Prices](https://okdata.online/pricing/?src=gh-org) · Official MCP Registry: `online.okdata/mcp`
 
