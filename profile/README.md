@@ -2,7 +2,7 @@
 
 **RedNote (Xiaohongshu) · Douyin · WeChat · Weibo · Bilibili · Kuaishou** · and TikTok, YouTube, Instagram, X, Reddit, Amazon
 
-Read what Chinese consumers post on RedNote, Douyin and WeChat from anywhere, in JSON with English field names: search posts, read comments, look up creators and their official rates, follow the hot lists. No Chinese phone number, no platform account, no cookies. Built for brands and agencies researching the China market, research teams, and developers giving AI agents China data. One key covers 30 platforms and 260+ endpoints, including TikTok, YouTube, Instagram, X and Reddit. Pay per call, no subscription. A new key comes with free trial credit.
+Read what Chinese consumers post on RedNote, Douyin and WeChat from anywhere, in JSON with English field names: search posts, read comments, look up creators and their official rates, follow the hot lists. No Chinese phone number, no platform account, no cookies. Built for brands and agencies researching the China market, research teams, and developers giving AI agents China data. One key covers 30 platforms and 260+ endpoints, including TikTok, YouTube, Instagram, X and Reddit. Pay per call, no subscription. Free trial: up to 333 calls.
 
 [Website](https://okdata.online/?src=gh-org) · [Get a key](https://okdata.online/signup/?src=gh-org) · [Remote MCP for Claude, Cursor and other agents](https://okdata.online/mcp/?src=gh-org) · [Prices](https://okdata.online/pricing/?src=gh-org) · Official MCP Registry: `online.okdata/mcp`
 
